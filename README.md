@@ -10,27 +10,24 @@ Desarrollada como un único archivo HTML autónomo, sin dependencias, sin servid
 
 ### Vista Anual — resumen del curso con todas las tareas por mes
 <!-- Añadir captura: vista calendario modo Anual -->
-![Vista Anual](screenshots/vista-anual.png)
+![Vista Anual](screenshots/calendario-anual.png)
 
 ### Vista Mes — gestión mensual del calendario
 <!-- Añadir captura: vista calendario modo Mes -->
-![Vista Mes](screenshots/vista-mes.png)
+![Vista Mes](screenshots/calendario-mes.png)
+![Vista Mes editar](screenshots/calendario-mes-editar.png)
 
-### Vista Semana
-<!-- Añadir captura: vista calendario modo Semana -->
-![Vista Semana](screenshots/vista-semana.png)
+### Editar tareas
+<!-- Añadir captura: editar tarea -->
+![Vista Semana](screenshots/editar-tarea.png)
 
-### Vista Día
-<!-- Añadir captura: vista calendario modo Día -->
-![Vista Día](screenshots/vista-dia.png)
+### Gestionar Áreas
+<!-- Añadir captura: vista Gestionar Areas -->
+![Vista Día](screenshots/gestionar-areas.png)
 
 ### Gestionar Tareas — catálogo global con asignación por meses
 <!-- Añadir captura: pestaña Gestionar Tareas -->
-![Gestionar Tareas](screenshots/gestionar-tareas.png)
-
-### Por Área — drag & drop entre áreas de gestión
-<!-- Añadir captura: pestaña Por Área -->
-![Por Área](screenshots/por-area.png)
+![Vista Día](screenshots/gestionar-tareas.png)
 
 ---
 
