@@ -1,6 +1,6 @@
 # 📋 Gestor de Tareas — Jefe de Departamento FP
 
-Herramienta web de planificación y seguimiento de tareas para el **Jefe de Departamento de Informática** en centros de Formación Profesional de Aragón.
+Herramienta web de planificación y seguimiento de tareas para el **Jefe de Departamento** en centros de Formación Profesional. Válida para cualquier familia profesional.
 
 Desarrollada como un único archivo HTML autónomo, sin dependencias, sin servidor y sin instalación. Funciona directamente en el navegador.
 
@@ -111,7 +111,7 @@ index.html
 ## 📋 Tareas incluidas por defecto
 
 El planning incluye **39 tareas** basadas en:
-- Funciones habituales del Jefe de Departamento en un IES de FP
+- Funciones habituales del Jefe de Departamento en un centro de FP
 - Obligaciones explícitas del **Decreto 91/2024** de Aragón (FP)
 
 ### Distribución por frecuencia
@@ -151,14 +151,6 @@ El planning incluye **39 tareas** basadas en:
 ## 📄 Licencia
 
 MIT — libre para usar, modificar y distribuir.
-
----
-
-## 👨‍💼 Autor
-
-Desarrollado por **Luis J. Sol Sona**  
-Profesor de Informática — IES Miguel de Molinos, Zaragoza (Aragón)  
-Departamento de Informática — Ciclos SMR y FPB
 
 ---
 
